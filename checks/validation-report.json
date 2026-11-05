@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:08.006893+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z3301-downtempo-psybient-patterns-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "c993c5dbaa4daebe49f063c86ff0a6aaf186bb3b6c7980dfae81cd865fa6e1f9",
+      "errors": []
+    },
+    {
+      "path": "midi/z3301-downtempo-psybient-patterns-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "02b4a7762f9cc8179befe34bef9102ff800dffd0c5e676d3c50f983c8c79a3d8",
+      "errors": []
+    },
+    {
+      "path": "midi/z3301-downtempo-psybient-patterns-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "00eab9d7774b6fc79d39821e06eac81234d073604efbecb18e813351efb6cf2f",
+      "errors": []
+    },
+    {
+      "path": "midi/z3301-downtempo-psybient-patterns-opening/principal_motif.mid",
+      "bytes": 780,
+      "sha256": "317caf68c490c0fb8dea567c8aed0b1244ff75ee79737fdc1b687799d6b1872c",
+      "errors": []
+    },
+    {
+      "path": "midi/z3301-downtempo-psybient-patterns-opening/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "5f0630599396eb87ec00014ca75ffc21f6f68f759feabd2433524cfead6f2e8a",
+      "errors": []
+    },
+    {
+      "path": "midi/z3301-downtempo-psybient-patterns-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "a2e24d102fb288a8ceb2506803ede97bb858cc75971f85735277ed51a49e9215",
+      "errors": []
+    },
+    {
+      "path": "midi/z3301-downtempo-psybient-patterns-opening/z3301-downtempo-psybient-patterns-opening-combined.mid",
+      "bytes": 6025,
+      "sha256": "f2ab0df934a000701d7a6bda6463cac9c25483fb84a84780a154b1fd8d967d37",
+      "errors": []
+    },
+    {
+      "path": "midi/z3302-downtempo-psybient-patterns-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "f9dbf52d72fc004bc887027a89619201817ecf8ea9f94189ba779b0ce4fa19f4",
+      "errors": []
+    },
+    {
+      "path": "midi/z3302-downtempo-psybient-patterns-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "b307519635fffa1fcdbe491d33466a8ef599f4cdf8abbdd4442a5eebe748eac0",
+      "errors": []
+    },
+    {
+      "path": "midi/z3302-downtempo-psybient-patterns-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "00eab9d7774b6fc79d39821e06eac81234d073604efbecb18e813351efb6cf2f",
+      "errors": []
+    },
+    {
+      "path": "midi/z3302-downtempo-psybient-patterns-variation/principal_motif.mid",
+      "bytes": 780,
+      "sha256": "dd224041311340541f776e412a9ce74ef2b525b262e646d524a882105a4092a7",
+      "errors": []
+    },
+    {
+      "path": "midi/z3302-downtempo-psybient-patterns-variation/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "facee9c31c1f42ddf5f6697591391f233569590248d76e450727bd59d509bc8e",
+      "errors": []
+    },
+    {
+      "path": "midi/z3302-downtempo-psybient-patterns-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "12b439fc048df566e3c82b5bb488267d81b9118341ca0d49f3485442e8c7aa65",
+      "errors": []
+    },
+    {
+      "path": "midi/z3302-downtempo-psybient-patterns-variation/z3302-downtempo-psybient-patterns-variation-combined.mid",
+      "bytes": 6025,
+      "sha256": "d788c7906a5e9a1af32c9b7bd881020fd847acaa2580341ce53377d16726cb95",
+      "errors": []
+    },
+    {
+      "path": "midi/z3303-downtempo-psybient-patterns-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "33a8e14a053711ac6455b9b4c300d293dbe7c587fbcffcbb068eb36bf735f7d7",
+      "errors": []
+    },
+    {
+      "path": "midi/z3303-downtempo-psybient-patterns-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "fdf85d46c141903bc9f5a46904b1dc727965bebbb7486b611bb13ffc72c1837b",
+      "errors": []
+    },
+    {
+      "path": "midi/z3303-downtempo-psybient-patterns-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "00eab9d7774b6fc79d39821e06eac81234d073604efbecb18e813351efb6cf2f",
+      "errors": []
+    },
+    {
+      "path": "midi/z3303-downtempo-psybient-patterns-contrast/principal_motif.mid",
+      "bytes": 748,
+      "sha256": "830ede99c5e7b5cf5ad0dcce7cfc3e7a75bb7e9f852d199165c4e3a39564ef60",
+      "errors": []
+    },
+    {
+      "path": "midi/z3303-downtempo-psybient-patterns-contrast/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "d090d4d03abb489da66c5a1146c181835bd5ad5061e988dc6137311cfb60f253",
+      "errors": []
+    },
+    {
+      "path": "midi/z3303-downtempo-psybient-patterns-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "95de1883e53638e8cabe417d72881e439debfbf2c0cea3fce81e52a985c3f4dd",
+      "errors": []
+    },
+    {
+      "path": "midi/z3303-downtempo-psybient-patterns-contrast/z3303-downtempo-psybient-patterns-contrast-combined.mid",
+      "bytes": 5993,
+      "sha256": "4c7b9fe9d73206b69059190bed7b274c7e291309f86a201b3e50e660a06f2bfc",
+      "errors": []
+    },
+    {
+      "path": "midi/z3304-downtempo-psybient-patterns-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "3f74a94b7b2d20f02918c00bdd71f2598c966b206020529145454782a92a90a8",
+      "errors": []
+    },
+    {
+      "path": "midi/z3304-downtempo-psybient-patterns-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "9c5be1a899f28eb432a184997296ee91fea7d93d669793d88c0a67e8644d5850",
+      "errors": []
+    },
+    {
+      "path": "midi/z3304-downtempo-psybient-patterns-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "00eab9d7774b6fc79d39821e06eac81234d073604efbecb18e813351efb6cf2f",
+      "errors": []
+    },
+    {
+      "path": "midi/z3304-downtempo-psybient-patterns-return/principal_motif.mid",
+      "bytes": 750,
+      "sha256": "986f445d895eadd1ef83ceb8c222e4a71c8c18a4141b0caf87a4fc21bc97c191",
+      "errors": []
+    },
+    {
+      "path": "midi/z3304-downtempo-psybient-patterns-return/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "cd41b036c884605c3831334e942bc77fad4ea9ad367b211f0a39ec4e5b4cb803",
+      "errors": []
+    },
+    {
+      "path": "midi/z3304-downtempo-psybient-patterns-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "3ae192b3641c26f9362ae5314c88b398645633cfedc916c56a6be5a204da1b3e",
+      "errors": []
+    },
+    {
+      "path": "midi/z3304-downtempo-psybient-patterns-return/z3304-downtempo-psybient-patterns-return-combined.mid",
+      "bytes": 5995,
+      "sha256": "867244a083c045376a7c3b2c0e264e1c548b1422656dc20153190b3219e5c607",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

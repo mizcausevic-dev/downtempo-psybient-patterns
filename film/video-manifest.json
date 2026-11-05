@@ -1,0 +1,26 @@
+{
+  "title": "Downtempo Psybient Patterns",
+  "study": "z3301",
+  "bpm": 100,
+  "source_audio": "preview/downtempo-psybient-patterns-simple-synth-preview.mp3",
+  "source_audio_sha256": "1a88ad323aad67902411803bde8e8dc17f2822772e7fd7d0a6bdf51874340a04",
+  "source_midi": "midi/z3301-downtempo-psybient-patterns-opening/z3301-downtempo-psybient-patterns-opening-combined.mid",
+  "source_midi_sha256": "f2ab0df934a000701d7a6bda6463cac9c25483fb84a84780a154b1fd8d967d37",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "11c112f265e076b3e093a3da51c4403414fc7b75de8eb05fd5c96bd472203bd6",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "beed261fedb44d2bbe3f23348a42def6ecba4c752be10dcdd5b26822c0cae23c",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "76361903f2cded2b95b24e134e87aa2ca96f470db2e9bfd72cdfffb6978c5035",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

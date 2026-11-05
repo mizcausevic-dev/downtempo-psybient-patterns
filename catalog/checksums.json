@@ -1,0 +1,450 @@
+{
+  "algorithm": "SHA-256",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "art/cover-provenance.json",
+      "bytes": 266,
+      "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
+    },
+    {
+      "path": "art/cover.svg",
+      "bytes": 1935,
+      "sha256": "3a9dc8c3c7ac1cfdb61061ec40d85211b550bf2781387abe10462fdde4844b49"
+    },
+    {
+      "path": "art/hero.jpg",
+      "bytes": 297569,
+      "sha256": "beed261fedb44d2bbe3f23348a42def6ecba4c752be10dcdd5b26822c0cae23c"
+    },
+    {
+      "path": "art/illustration-source.png",
+      "bytes": 2412806,
+      "sha256": "93681033aac486b95107c902bf097bb114c20ce0a15528bcfd27a6a4355fea55"
+    },
+    {
+      "path": "art/image-prompt.txt",
+      "bytes": 297,
+      "sha256": "f01604b4ca34303df6ef2f7e77389d48200e37e15617e0d0b7b0418670329054"
+    },
+    {
+      "path": "art/raster-provenance.json",
+      "bytes": 500,
+      "sha256": "fe50c36371651ac4bab1bca51d6119517245d7a7acc8c1bbea3bf0160ee71e5e"
+    },
+    {
+      "path": "art/square.jpg",
+      "bytes": 288415,
+      "sha256": "4f9fa7c71400137e1eb01549aeb83b87da0fcb99b215b12f928db34e411f8ee0"
+    },
+    {
+      "path": "articles/medium-draft.md",
+      "bytes": 760,
+      "sha256": "f7ff04f397e74223020f580c93d124f9e1fc5e41342bbd411a0e0bec4cccfe0c"
+    },
+    {
+      "path": "articles/medium-paste.txt",
+      "bytes": 760,
+      "sha256": "f7ff04f397e74223020f580c93d124f9e1fc5e41342bbd411a0e0bec4cccfe0c"
+    },
+    {
+      "path": "catalog/clip-index.csv",
+      "bytes": 1844,
+      "sha256": "e9af95fe568b720c9e5b9e5b5a84a21ef3e61f8b4821444443c4332dc1f80fda"
+    },
+    {
+      "path": "catalog/drum-map.csv",
+      "bytes": 158,
+      "sha256": "ee5949764a6e42171b113a12ed1b18e3cb7f97fdcf48a545348cb8fdaf611c5c"
+    },
+    {
+      "path": "catalog/harmonic-events.csv",
+      "bytes": 25494,
+      "sha256": "e25b196c85db721dd285f2e161b77d437aea0e0ea606dd02dfa155c4432da5f7"
+    },
+    {
+      "path": "catalog/note-events.csv",
+      "bytes": 103662,
+      "sha256": "11c112f265e076b3e093a3da51c4403414fc7b75de8eb05fd5c96bd472203bd6"
+    },
+    {
+      "path": "catalog/patch-recipes.json",
+      "bytes": 1810,
+      "sha256": "80584fcd3db787802c3797409f4da4ac3b7179ec449a2829b7d85b2b349a6727"
+    },
+    {
+      "path": "catalog/release-spec.json",
+      "bytes": 2529,
+      "sha256": "6fd1adb5a0c582b3c8d5c5a2dbc6a4ee92178251fabdf0d57b1a748d5331d7b6"
+    },
+    {
+      "path": "catalog/structural-regions.csv",
+      "bytes": 816,
+      "sha256": "306b5bd71f8c5eecc69fe9d37ccc97b0a6f322ed719ff8cb570073c49b406006"
+    },
+    {
+      "path": "catalog/study-index.csv",
+      "bytes": 1257,
+      "sha256": "94fc462b596ca1b2beea5f13b24903994df210c8f8b171360f68426e67f84c25"
+    },
+    {
+      "path": "checks/build-metadata.json",
+      "bytes": 393,
+      "sha256": "852c9a5c7bbaf95dc539c6b39dbbf06cddafdec83a55f62ad95b878ed9307749"
+    },
+    {
+      "path": "checks/clip-validation.json",
+      "bytes": 309,
+      "sha256": "85425e84ad56b8ce2ee831fbea086f67539e9c2052c619055b1b8e99d8b9166e"
+    },
+    {
+      "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+      "bytes": 81,
+      "sha256": "4ef414082e4c33bde099758ae918e82eb062e90e09fb0bf7ae838b3c7ebd4e87"
+    },
+    {
+      "path": "checks/media-validation.json",
+      "bytes": 462,
+      "sha256": "96e442960d4e4ecb459c3eacba4abcd2a1b70cf47cd25c33dd86f20d6da3cdd1"
+    },
+    {
+      "path": "clips/z3301-melody-01.mid",
+      "bytes": 162,
+      "sha256": "4bbefbd676c4afcd2349bb13071fc00025affe9c002ddd923c374b3036afdf3f"
+    },
+    {
+      "path": "clips/z3301-melody-02.mid",
+      "bytes": 163,
+      "sha256": "d27ef623a6ef3ea437cb89e70708f779144191a28175f4bf96516f390642fd82"
+    },
+    {
+      "path": "clips/z3301-melody-03.mid",
+      "bytes": 119,
+      "sha256": "5f670a58f658083747cce46de86db874667f5ed203d453ede77c97b5b8a095ac"
+    },
+    {
+      "path": "clips/z3301-melody-04.mid",
+      "bytes": 119,
+      "sha256": "458e7cd4f400e71b302167b9b1c4d78dc83993716e0d8f1d45f1e56f192caebf"
+    },
+    {
+      "path": "clips/z3302-melody-01.mid",
+      "bytes": 162,
+      "sha256": "b0d2c3258a34eea6f053eb3df0f3bb9d5084eab0f69a5fa628c187142b71443a"
+    },
+    {
+      "path": "clips/z3302-melody-02.mid",
+      "bytes": 161,
+      "sha256": "dc36027da8414ed2289cf094b0677b101a5bbe1c544fc715f30435fe53494960"
+    },
+    {
+      "path": "clips/z3302-melody-03.mid",
+      "bytes": 119,
+      "sha256": "32f9acb7cba718a86cf4c29f59e70be2194ce012c863a7ca69424a2fc9719458"
+    },
+    {
+      "path": "clips/z3302-melody-04.mid",
+      "bytes": 119,
+      "sha256": "1e6c8473ee8aad192990ae69576a6b63f3a72f42966ae2c33f74f151e33e438f"
+    },
+    {
+      "path": "clips/z3303-melody-01.mid",
+      "bytes": 162,
+      "sha256": "ac69d299a9251d048cbdb2a7eb1968476e2963487461f3b8a5f77b66a3f84bc1"
+    },
+    {
+      "path": "clips/z3303-melody-02.mid",
+      "bytes": 162,
+      "sha256": "856d5feb1422ac2a8505991c7ff21ea6e5969c35c1a3cb0b1c52178d169159bc"
+    },
+    {
+      "path": "clips/z3303-melody-03.mid",
+      "bytes": 103,
+      "sha256": "147e6154fcd58a5d1a76c1a2539bf6f2b51bdb6ea8adcf166e4cb183355edaa4"
+    },
+    {
+      "path": "clips/z3303-melody-04.mid",
+      "bytes": 103,
+      "sha256": "d18303091fca34b89c841155bc2b5aec4fc256d06abad991fbfcbd32a785a45a"
+    },
+    {
+      "path": "clips/z3304-melody-01.mid",
+      "bytes": 161,
+      "sha256": "5e75c35e3d00c04cf14a1c47aafcae8a2036c2daa295294c322732e91d3daf37"
+    },
+    {
+      "path": "clips/z3304-melody-02.mid",
+      "bytes": 160,
+      "sha256": "a00cc0266cdabf9fbbc203fcbc71f0e1fbd1dabe215c1c493b8cf820b60f48e3"
+    },
+    {
+      "path": "clips/z3304-melody-03.mid",
+      "bytes": 104,
+      "sha256": "4fa3f22fc3aabbee3c71845f3d34c17076ba6be0472c06f0892b851db0e3bedb"
+    },
+    {
+      "path": "clips/z3304-melody-04.mid",
+      "bytes": 105,
+      "sha256": "4ff20cd262365738896a606a4702a4795182de714055e3ace990efaebb3b393e"
+    },
+    {
+      "path": "delivery.md",
+      "bytes": 445,
+      "sha256": "341e31715afa3f3b170afad31dda42331975f09cb6e58697d95975929436d484"
+    },
+    {
+      "path": "downloads/downtempo-psybient-patterns-midi.zip",
+      "bytes": 32078,
+      "sha256": "2e73065d48cf5ed21a9226972d5cda81c9370d265df1d7612b5cafb46294284a"
+    },
+    {
+      "path": "film/motion-note-roll.png",
+      "bytes": 2623,
+      "sha256": "ae0b66ff7fb65ff483c6846a61676903127eea66191392e1c8ff027280c197ca"
+    },
+    {
+      "path": "film/motion-overlay.png",
+      "bytes": 35035,
+      "sha256": "69c152dd15e0346b9a06c523b565969fe172be2cb5514ba21f71865ee9c1f702"
+    },
+    {
+      "path": "film/poster.jpg",
+      "bytes": 275466,
+      "sha256": "fd02c1ee2fd04c1d301b8579cb8603d097144248c6d1b4a6ced86b9a8b1cf770"
+    },
+    {
+      "path": "film/preview.mp4",
+      "bytes": 1038495,
+      "sha256": "76361903f2cded2b95b24e134e87aa2ca96f470db2e9bfd72cdfffb6978c5035"
+    },
+    {
+      "path": "film/preview.vtt",
+      "bytes": 86,
+      "sha256": "66a3a5d04904c48ceef8c1eb6e0698d44a7ec9f80950e2cc21b7dc0f54c12fea"
+    },
+    {
+      "path": "film/video-manifest.json",
+      "bytes": 1242,
+      "sha256": "d8fc03fb31918c18278cdffa67a13699a746ef7743d9e34d0f0c059fd3e51b42"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10092,
+      "sha256": "1b990d7633789572d03484aa4774262eceaa90779bc277a32e1bd5b78982f768"
+    },
+    {
+      "path": "midi/z3301-downtempo-psybient-patterns-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "c993c5dbaa4daebe49f063c86ff0a6aaf186bb3b6c7980dfae81cd865fa6e1f9"
+    },
+    {
+      "path": "midi/z3301-downtempo-psybient-patterns-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "02b4a7762f9cc8179befe34bef9102ff800dffd0c5e676d3c50f983c8c79a3d8"
+    },
+    {
+      "path": "midi/z3301-downtempo-psybient-patterns-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "00eab9d7774b6fc79d39821e06eac81234d073604efbecb18e813351efb6cf2f"
+    },
+    {
+      "path": "midi/z3301-downtempo-psybient-patterns-opening/principal_motif.mid",
+      "bytes": 780,
+      "sha256": "317caf68c490c0fb8dea567c8aed0b1244ff75ee79737fdc1b687799d6b1872c"
+    },
+    {
+      "path": "midi/z3301-downtempo-psybient-patterns-opening/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "5f0630599396eb87ec00014ca75ffc21f6f68f759feabd2433524cfead6f2e8a"
+    },
+    {
+      "path": "midi/z3301-downtempo-psybient-patterns-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "a2e24d102fb288a8ceb2506803ede97bb858cc75971f85735277ed51a49e9215"
+    },
+    {
+      "path": "midi/z3301-downtempo-psybient-patterns-opening/z3301-downtempo-psybient-patterns-opening-combined.mid",
+      "bytes": 6025,
+      "sha256": "f2ab0df934a000701d7a6bda6463cac9c25483fb84a84780a154b1fd8d967d37"
+    },
+    {
+      "path": "midi/z3302-downtempo-psybient-patterns-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "f9dbf52d72fc004bc887027a89619201817ecf8ea9f94189ba779b0ce4fa19f4"
+    },
+    {
+      "path": "midi/z3302-downtempo-psybient-patterns-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "b307519635fffa1fcdbe491d33466a8ef599f4cdf8abbdd4442a5eebe748eac0"
+    },
+    {
+      "path": "midi/z3302-downtempo-psybient-patterns-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "00eab9d7774b6fc79d39821e06eac81234d073604efbecb18e813351efb6cf2f"
+    },
+    {
+      "path": "midi/z3302-downtempo-psybient-patterns-variation/principal_motif.mid",
+      "bytes": 780,
+      "sha256": "dd224041311340541f776e412a9ce74ef2b525b262e646d524a882105a4092a7"
+    },
+    {
+      "path": "midi/z3302-downtempo-psybient-patterns-variation/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "facee9c31c1f42ddf5f6697591391f233569590248d76e450727bd59d509bc8e"
+    },
+    {
+      "path": "midi/z3302-downtempo-psybient-patterns-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "12b439fc048df566e3c82b5bb488267d81b9118341ca0d49f3485442e8c7aa65"
+    },
+    {
+      "path": "midi/z3302-downtempo-psybient-patterns-variation/z3302-downtempo-psybient-patterns-variation-combined.mid",
+      "bytes": 6025,
+      "sha256": "d788c7906a5e9a1af32c9b7bd881020fd847acaa2580341ce53377d16726cb95"
+    },
+    {
+      "path": "midi/z3303-downtempo-psybient-patterns-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "33a8e14a053711ac6455b9b4c300d293dbe7c587fbcffcbb068eb36bf735f7d7"
+    },
+    {
+      "path": "midi/z3303-downtempo-psybient-patterns-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "fdf85d46c141903bc9f5a46904b1dc727965bebbb7486b611bb13ffc72c1837b"
+    },
+    {
+      "path": "midi/z3303-downtempo-psybient-patterns-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "00eab9d7774b6fc79d39821e06eac81234d073604efbecb18e813351efb6cf2f"
+    },
+    {
+      "path": "midi/z3303-downtempo-psybient-patterns-contrast/principal_motif.mid",
+      "bytes": 748,
+      "sha256": "830ede99c5e7b5cf5ad0dcce7cfc3e7a75bb7e9f852d199165c4e3a39564ef60"
+    },
+    {
+      "path": "midi/z3303-downtempo-psybient-patterns-contrast/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "d090d4d03abb489da66c5a1146c181835bd5ad5061e988dc6137311cfb60f253"
+    },
+    {
+      "path": "midi/z3303-downtempo-psybient-patterns-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "95de1883e53638e8cabe417d72881e439debfbf2c0cea3fce81e52a985c3f4dd"
+    },
+    {
+      "path": "midi/z3303-downtempo-psybient-patterns-contrast/z3303-downtempo-psybient-patterns-contrast-combined.mid",
+      "bytes": 5993,
+      "sha256": "4c7b9fe9d73206b69059190bed7b274c7e291309f86a201b3e50e660a06f2bfc"
+    },
+    {
+      "path": "midi/z3304-downtempo-psybient-patterns-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "3f74a94b7b2d20f02918c00bdd71f2598c966b206020529145454782a92a90a8"
+    },
+    {
+      "path": "midi/z3304-downtempo-psybient-patterns-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "9c5be1a899f28eb432a184997296ee91fea7d93d669793d88c0a67e8644d5850"
+    },
+    {
+      "path": "midi/z3304-downtempo-psybient-patterns-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "00eab9d7774b6fc79d39821e06eac81234d073604efbecb18e813351efb6cf2f"
+    },
+    {
+      "path": "midi/z3304-downtempo-psybient-patterns-return/principal_motif.mid",
+      "bytes": 750,
+      "sha256": "986f445d895eadd1ef83ceb8c222e4a71c8c18a4141b0caf87a4fc21bc97c191"
+    },
+    {
+      "path": "midi/z3304-downtempo-psybient-patterns-return/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "cd41b036c884605c3831334e942bc77fad4ea9ad367b211f0a39ec4e5b4cb803"
+    },
+    {
+      "path": "midi/z3304-downtempo-psybient-patterns-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "3ae192b3641c26f9362ae5314c88b398645633cfedc916c56a6be5a204da1b3e"
+    },
+    {
+      "path": "midi/z3304-downtempo-psybient-patterns-return/z3304-downtempo-psybient-patterns-return-combined.mid",
+      "bytes": 5995,
+      "sha256": "867244a083c045376a7c3b2c0e264e1c548b1422656dc20153190b3219e5c607"
+    },
+    {
+      "path": "preview/downtempo-psybient-patterns-simple-synth-preview.mp3",
+      "bytes": 1857036,
+      "sha256": "1a88ad323aad67902411803bde8e8dc17f2822772e7fd7d0a6bdf51874340a04"
+    },
+    {
+      "path": "preview/preview-manifest.json",
+      "bytes": 1189,
+      "sha256": "ff35e38fc18d251d7af7055583310607327af22a40981291ef493c548389337f"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4011,
+      "sha256": "fb8e7126ff6c56be0eb67a1847bfa7a940446bf33bae85b017ca49ea2a0ef14b"
+    },
+    {
+      "path": "social/instagram/caption.txt",
+      "bytes": 230,
+      "sha256": "54af75a0b29033cb396b41d2894492e942bbd5324fb0d1bcf2bb00d4c262246c"
+    },
+    {
+      "path": "social/instagram/portrait.jpg",
+      "bytes": 283543,
+      "sha256": "351ad1a6403ca3ee237cfb792b5b03d42f90df686186616d9601d8864be0e90a"
+    },
+    {
+      "path": "social/instagram/square.jpg",
+      "bytes": 263661,
+      "sha256": "87b7cbfe8e274d3a3333e4e4c94b5e28ab8ae39ce8113c398cafd3e270ef9f90"
+    },
+    {
+      "path": "social/x/card.jpg",
+      "bytes": 270248,
+      "sha256": "6b18e91d3ec83ae190d4d9d3ac4eb4304afaaa8eef3e58d51dad719d6c46daeb"
+    },
+    {
+      "path": "social/x/post.txt",
+      "bytes": 192,
+      "sha256": "ab1a1bc6b8645424b1ca320eb55697bfd2d92fd441d133a1176edb026c41456a"
+    },
+    {
+      "path": "tools/build_footwork.py",
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
+    },
+    {
+      "path": "tools/build_release.py",
+      "bytes": 147457,
+      "sha256": "97c986fb7994c8dd519b8f85696af96d32241a668111f4ffe4c3e2c241e1385c"
+    },
+    {
+      "path": "tools/polish_release.py",
+      "bytes": 7763,
+      "sha256": "b656e270626dcd22f2bff72dcc733516775299a975808bc7e674ca19c9a5219a"
+    },
+    {
+      "path": "tools/produce_clips.py",
+      "bytes": 13319,
+      "sha256": "9915e52ab0db399bbca6a07b7641afe3b9c4e9a5a1260330caf8633b21dca644"
+    },
+    {
+      "path": "tools/render_motion_preview.py",
+      "bytes": 7162,
+      "sha256": "e5269d02f53d5eb4c52d07826528ed8651ce8eea2a1d9ca495c440bb75e59791"
+    },
+    {
+      "path": "tools/validate_release.py",
+      "bytes": 13763,
+      "sha256": "c590a3c9e44249ddc1a2d14a048dea0f3e1ef0a232d3b86ea96a0f4eafeff6a5"
+    }
+  ]
+}
