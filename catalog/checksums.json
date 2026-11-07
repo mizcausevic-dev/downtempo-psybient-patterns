@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/downtempo-psybient-patterns-midi.zip",
-      "bytes": 32078,
-      "sha256": "2e73065d48cf5ed21a9226972d5cda81c9370d265df1d7612b5cafb46294284a"
+      "bytes": 33065,
+      "sha256": "c99476e1155f16485bfdafe7f024ce13b15a626f5b7f55462208e6406edbb595"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10092,
-      "sha256": "1b990d7633789572d03484aa4774262eceaa90779bc277a32e1bd5b78982f768"
+      "bytes": 10282,
+      "sha256": "dc5c4007edfa4bf6560c080429594e327417b079fd8a2c56153a2c5545e7f175"
     },
     {
       "path": "midi/z3301-downtempo-psybient-patterns-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "867244a083c045376a7c3b2c0e264e1c548b1422656dc20153190b3219e5c607"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/downtempo-psybient-patterns-simple-synth-preview.mp3",
       "bytes": 1857036,
       "sha256": "1a88ad323aad67902411803bde8e8dc17f2822772e7fd7d0a6bdf51874340a04"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4017,
-      "sha256": "81e7b03396b31dc7c84dc6b3e4bb4562ddd5ff6a5579819c70ae2f14fa778068"
+      "bytes": 4132,
+      "sha256": "4ba3f050fa82e184daf63caf866e3b1b61936fc9a0bfa381e90c7a9044e4028c"
     },
     {
       "path": "social/instagram/caption.txt",
